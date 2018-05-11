@@ -11,4 +11,7 @@ package com.mycompany.upeu.test;
  */
 public class prueba01 {
     
+    public static void main(String[] a){
+        System.out.println("Hola mundo");}
+    
 }
